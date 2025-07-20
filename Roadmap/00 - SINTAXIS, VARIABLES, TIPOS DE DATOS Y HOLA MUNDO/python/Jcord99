@@ -1,0 +1,22 @@
+#https://www.python.org/
+
+#el que corrija esto podria decirme como se agrega un comentario en varias lineas, gracias
+
+"""
+creo que 
+ya lo
+averigue
+"""
+
+variable = "esto de casualidad es una variable"
+variable = "por que no se ponen las letras de otro color como en los videos"
+
+MY_CONSTANT = "de casualidad lo estoy haciendo bien"
+
+my_int = 1
+my_float = 1.3
+my_bool = true
+my_bool = false
+my_string = "que tal"
+
+print ("¡Hola, python!")
